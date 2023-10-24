@@ -1,4 +1,4 @@
-# rusty-journal
+# Rusty Journal
 
 A journal built using Rust
 
